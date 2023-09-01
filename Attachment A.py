@@ -509,5 +509,3 @@ def downloadRFIs(Intake):
         os.remove(pdf)
 
     return
-
-createDoc(193)
